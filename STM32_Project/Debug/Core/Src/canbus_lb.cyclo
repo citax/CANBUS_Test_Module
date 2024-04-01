@@ -1,0 +1,4 @@
+../Core/Src/canbus_lb.c:36:6:Uart_Init	1
+../Core/Src/canbus_lb.c:49:6:Uart_Interrupt	1
+../Core/Src/canbus_lb.c:63:6:Can_Init	1
+../Core/Src/canbus_lb.c:97:6:Can_Interrupt	1
